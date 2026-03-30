@@ -122,6 +122,5 @@ def main():
     show_histograms(bilder, histogramme, bildnamen)
     show_lut_result(bilder[0])
 
-
 if __name__ == "__main__":
     main()
